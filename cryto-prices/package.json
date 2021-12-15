@@ -1,0 +1,16 @@
+{
+  "name": "crypto-prices",
+  "version": "1.0.0",
+  "description": "1. [Introduction](./01/introduction.md) 2. [Container Platforms](./02/container-platforms.md) 3. [Images and Containers](./03/images_and_containers.md) 4. [Adding files](./04/adding_files.md) 5. [Mounting Volumes](./05/mounting_volumes.md) 6. Environment Variables 7. Exposing Ports 8. Network 9.  Docker Compose",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
