@@ -1,5 +1,8 @@
 # Containerization
 
+https://github.com/tsiminiya/campaigns-containerization.git
+git@git-geo.enjoy-platform.net:manila-workshop/containerization.git
+
 1. [Introduction](./01/introduction.md)
 2. [Container Platforms](./02/container-platforms.md)
 3. [Images and Containers](./03/images_and_containers.md)
